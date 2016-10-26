@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{B5F2BCA7-4235-4438-831F-F8625C698AA4}|Default">
+  <MonoDevelop.Ide.ItemProperties.SampleApplication PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.A84BE647-1097-441C-BDE6-F254F9642D5C" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FlipNumberView/ApiDefinition.cs">
+    <Files>
+      <File FileName="SampleApplication/ViewController.cs" Line="20" Column="4" />
+      <File FileName="FlipNumberView/ApiDefinition.cs" Line="18" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
