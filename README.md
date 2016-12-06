@@ -13,3 +13,8 @@ flipView.Frame = new CGRect(10, 60, this.View.Frame.Width - 20, 100);
 flipView.StartAnimation();
 this.View.AddSubview(flipView);
 ```
+
+
+###Output
+
+![](https://github.com/guntidheerajkumar/FlipNumberView/blob/master/FlipViewOutput.gif)
